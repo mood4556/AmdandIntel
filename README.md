@@ -1,2 +1,2 @@
 # AmdandIntel
-information procesing
+My WEB site: http://cpu-mania.cf/
