@@ -1,0 +1,2 @@
+# AmdandIntel
+information procesing
