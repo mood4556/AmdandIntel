@@ -1,2 +1,2 @@
 # AmdandIntel
-My WEB site: http://cpu-mania.cf/
+My WEB site:  https://cpu-mania.cf/
